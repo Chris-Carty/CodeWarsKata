@@ -24,3 +24,5 @@ def iq_test(numbers):
     else:
         z = [i for i, elem in enumerate(int_arr) if elem % 2 == 0]
         return int(z[0]) + 1
+    
+    
